@@ -1,0 +1,4 @@
+Telethon~=1.27.0
+PyYAML~=6.0
+requests~=2.28.2
+helium~=3.0.9

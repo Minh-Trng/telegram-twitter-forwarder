@@ -1,0 +1,21 @@
+---
+API_ID: 12345
+API_HASH: 12345abcde
+
+# fill this to get notified about some events on the sniper in a telegram message. Leave null if you dont need this
+TG_BOT_TOKEN: 112345:abcde
+TG_CHAT_ID: -12345
+
+TWITTER_USERNAME: abc
+TWITTER_PASSWORD: abc
+
+# determines if browser is displayed on screen or runs in the background
+HEADLESS_BROWSER: false
+
+# useful to find out chat ids
+LOG_RECEIVED_MESSAGES_TO_CONSOLE: false
+
+# only messages of these chat ids will be forwarded
+CHAT_IDS_FILTER:
+  - 123
+  - 678
